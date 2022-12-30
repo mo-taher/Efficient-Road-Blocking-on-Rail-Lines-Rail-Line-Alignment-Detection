@@ -1,4 +1,4 @@
-# Efficient-Road-Blocking-on-Rail-Lines-Rail-Line-Alignment-Detection System[image]
+# Efficient-Road-Blocking-on-Rail-Lines-Rail-Line-Alignment-Detection System
 
 ![image](https://user-images.githubusercontent.com/68026627/210097785-8d342a18-4949-492b-924f-633ccd5fecdf.png)
 
